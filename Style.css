@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: merriweather;
+
+}
+body{
+    height: 3000px;
+}
+.main{
+    width: 100%;
+    overflow-x: hidden;
+}
+.main img{
+    width: 100%;
+    height: 720px;  
+}
+.nav-bar{
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(16, 9, 42);
+    position: fixed;
+    z-index: 2;
+}
+.nav-logo {
+    width: 139px;
+    height: 70px;
+    
+}
+#logo{
+    width: 119px;
+    height: 26px;
+    position: absolute;
+    top: 23px;
+    left: 20px;
+}
+.list {
+    width: 1100px;
+    height: 70px;
+    color: white;
+    position: absolute;
+    left: 300px;
+    top: 25px;
+   
+}
+li{
+    display: inline;
+    padding: 17px;
+    margin-top: 100px; 
+}
+li:hover{
+    color: rgb(219, 21, 21);
+    cursor: pointer;
+   
+}
+.maintwo{
+    width: 640px;
+    height: 1370px;
+    background-color:#F09130;
+    position: absolute;
+    top:719px;
+    z-index:-1;
+}
+.maintwo-child img{
+    width: 192px;
+    height: 530px;
+    position: absolute;
+    left: 200px;
+    top: 400px;
+}
+#l{
+    position: absolute;
+    font-size: 70px;
+     left: 160px;
+     top: 550px;
+     color: white;
+     font-weight:bolder;
+}
+#f{
+    position: absolute;
+    top: 630px;
+    left: 200px;
+    font-size: 60px;
+    color: white;
+}
+#li{
+    position: absolute;
+    top: 700px;
+    left: 240px;
+    font-size: 60px;
+    color: white;
+}
+.otherside{
+    width: 400px;
+    height: 460px;
+    font-size: 23px;
+    position: absolute;
+    left: 750px;
+    top: 160px;
+}
+.para{
+    width: 385px;
+    height: 376px;
+    position: absolute;
+    top: 500px;
+}
+#paratwo{
+    width: 387px;
+    height: 116px;
+    margin-top: 20px;
+}
+.icon{
+    width: 400px;
+    height: 38px;
+    margin-top: 20px;
+    
+}
+.third img{
+    width: 100%;
+    height: 720px;
+  
+    position: absolute;
+    top: 2080px;
+}
+.fourth{
+    width: 100%;
+    height: 266px;
+    background-color: white;
+    position: absolute;
+    top: 2790px;
+}
+.first{
+    width: 363.33px;
+    height: 150px;
+    font-size: 14px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+#foo{
+    margin-top: 20px;
+}
+.nex{
+    width: 363px;
+    height: 43px;
+    font-size: 13px;
+    position: absolute;
+    left: 400px;
+    top: 40px;
+   
+}
+.sp{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.sem{
+    margin-top: 10px;
+    margin-left: 30px;
+
+}
+.sem:hover{
+    color: orange;
+    cursor: pointer;
+}
+#nepara{
+    margin-left: 40px;
+}
+.nee{
+    width: 393px;
+    height: 166px;
+
+    position: absolute;
+    left: 840px;
+    top: 40px;
+}
+#move{
+    position: absolute;
+    left: 75px;
+    top: 1px;
+}
+#move:hover{
+    color: #F09130;
+    cursor: pointer;
+    
+}
+.nem{
+    font-size: 13px;
+    
+}
+.mv{
+    margin-top: 10px;   
+}
+#mvtwo:hover{
+    color: #F09130;
+    cursor: pointer;
+
+}
+.get{
+    margin-top: 10px;
+}
+#info{
+    position: absolute;
+    left: 17px;
+    top: 86px;
+}
+#info:hover{
+    color: #F09130;
+    cursor: pointer;
+}
+#fol{
+    margin-top: 15px;
+}
+.icons{
+    margin: 10px;
+    
+}
+ 
+
+
